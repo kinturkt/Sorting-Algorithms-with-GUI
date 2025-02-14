@@ -35,11 +35,11 @@ A graphical user interface (GUI) application that visualizes various sorting alg
 
 4. Interact with the GUI and select sorting algorithms to visualize.
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 Add more sorting algorithms (Radix Sort, Bucket Sort, etc.) <br>
 Improve UI/UX with advanced animations <br>
 Optimize performance for larger datasets <br>
 
-📬 Get in Touch
+## 📬 Get in Touch
 Author: Kintur Shah <br>
 [LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
