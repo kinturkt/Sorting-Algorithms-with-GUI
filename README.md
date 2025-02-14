@@ -28,5 +28,21 @@ _Add relevant screenshots or GIFs showcasing the sorting visualizations._
    ```bash
    git clone https://github.com/kinturkt/Sorting-Algorithms-with-GUI.git
    cd Sorting-Algorithms-with-GUI
-2. **Run the application**
-  python main.py
+2. **Install dependencies (if applicable)**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the application**
+   ```bash
+   python main.py
+
+4. Interact with the GUI and select sorting algorithms to visualize.
+
+📌 Future Enhancements
+Add more sorting algorithms (Radix Sort, Bucket Sort, etc.) <br>
+Improve UI/UX with advanced animations <br>
+Optimize performance for larger datasets <br>
+
+📬 Get in Touch
+Author: Kintur Shah <br>
+[LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
