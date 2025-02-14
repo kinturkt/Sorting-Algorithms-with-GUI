@@ -6,3 +6,6 @@ algorithms' performance in real-time, enhancing understanding and decision-makin
 <br>
 <br>
 Also, there are different ways to create GUI such as using <pyscript> element in HTML, using Python modules like pyautogui and PySimpleGUI, PyQt, and many more.
+
+**Author: Kintur Shah** <br>
+[LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
