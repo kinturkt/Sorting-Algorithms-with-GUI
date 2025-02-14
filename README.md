@@ -1,11 +1,32 @@
-Developed a Python GUI utilizing Tkinter, facilitating real-time analysis of sorting algorithms including Bubble, Merge, Quick, Heap, Insertion and Selection sorts. Enables user input or random list generation with up to 2,500 elements and can be extended too.
-<br>
-<br>
-As an additional feature you can implement Matplotlib for dynamic visualization of algorithmic efficiency, empowering users to analyze and compare sorting
-algorithms' performance in real-time, enhancing understanding and decision-making.
-<br>
-<br>
-Also, there are different ways to create GUI such as using <pyscript> element in HTML, using Python modules like pyautogui and PySimpleGUI, PyQt, and many more.
+# Sorting Algorithms with GUI 🎨📊  
 
-**Author: Kintur Shah** <br>
-[LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
+A graphical user interface (GUI) application that visualizes various sorting algorithms in action. This project aims to help users understand the working of sorting algorithms through real-time animations.  
+
+## 🚀 Features  
+- **Interactive GUI** for sorting visualization  
+- Supports multiple sorting algorithms:  
+  - 🔹 Bubble Sort  
+  - 🔹 Selection Sort  
+  - 🔹 Insertion Sort  
+  - 🔹 Merge Sort  
+  - 🔹 Quick Sort  
+  - 🔹 Heap Sort  
+- Adjustable sorting speed  
+- Customizable input array size  
+- Real-time visualization with step-by-step execution  
+
+## 🛠️ Technologies Used  
+- **Programming Language:** Python  
+- **GUI Framework:** Tkinter / PyQt (mention if applicable)  
+- **Visualization:** Matplotlib / Pygame (mention if applicable)  
+
+## 📸 Screenshots  
+_Add relevant screenshots or GIFs showcasing the sorting visualizations._  
+
+## 🎯 How to Run  
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/kinturkt/Sorting-Algorithms-with-GUI.git
+   cd Sorting-Algorithms-with-GUI
+2. **Run the application**
+  python main.py
