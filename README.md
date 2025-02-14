@@ -18,10 +18,7 @@ A graphical user interface (GUI) application that visualizes various sorting alg
 ## 🛠️ Technologies Used  
 - **Programming Language:** Python  
 - **GUI Framework:** Tkinter / PyQt (mention if applicable)  
-- **Visualization:** Matplotlib / Pygame (mention if applicable)  
-
-## 📸 Screenshots  
-_Add relevant screenshots or GIFs showcasing the sorting visualizations._  
+- **Visualization:** Matplotlib / Pygame (mention if applicable) 
 
 ## 🎯 How to Run  
 1. **Clone the repository**  
